@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "394601129847",
+    "firebase_url": "https://dyfiblood-cb451.firebaseio.com",
+    "project_id": "dyfiblood-cb451",
+    "storage_bucket": "dyfiblood-cb451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394601129847:android:11298681846288dc",
+        "android_client_info": {
+          "package_name": "org.dyfi.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394601129847-c2oeqm94mj5mam6kddfvub4idhihvsjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.dyfi.blood",
+            "certificate_hash": "dfb7360900a1e5c1bb2941bc11489dc765ce8276"
+          }
+        },
+        {
+          "client_id": "394601129847-oqbd4jlnfb9r0bo9sh66c3cf4mcc5mtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1_U4B3xj1DCx95skW7YsQrM-x_zTeeIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394601129847-oqbd4jlnfb9r0bo9sh66c3cf4mcc5mtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
